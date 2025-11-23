@@ -23,7 +23,7 @@ export default function Login() {
 
                     <Form.Item>
                         <div className='divLogoImg'>
-                            <img className='logoImg' src="/lumipayIcon.png" alt="lumipayIcon" />
+                            <img className='logoImg' src={`${process.env.PUBLIC_URL}/lumipayIcon.png`} alt="lumipayIcon" />
                         </div>
                     </Form.Item>
 
