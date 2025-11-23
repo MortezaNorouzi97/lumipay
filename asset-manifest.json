@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lumipay/static/css/main.13ad79d4.css",
+    "main.js": "/lumipay/static/js/main.ff21930f.js",
+    "index.html": "/lumipay/index.html",
+    "main.13ad79d4.css.map": "/lumipay/static/css/main.13ad79d4.css.map",
+    "main.ff21930f.js.map": "/lumipay/static/js/main.ff21930f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13ad79d4.css",
+    "static/js/main.ff21930f.js"
+  ]
+}
